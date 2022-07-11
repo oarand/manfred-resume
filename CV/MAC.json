@@ -1,0 +1,336 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Oscar",
+      "surnames": "Aranda Crespo",
+      "title": "Tech Product Owner / IT Architect",
+      "description": "IT professional since 1998. From SmallTalk to AWS/NodeJs. Developing/architecting frontend applications but willing to discover other worlds (cloud/microservices/data). \n\nLately leading high performance technical teams. ",
+      "avatar": {
+        "alt": "Avatar.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/4219bd47-5342-4b1f-b37e-b75ddf118098_avatar.jpg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://bitbucket.org/oarandac/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/oarand"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.theninjaproject.bbva/profile/oscar.aranda@bbva.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "alt": "bbva-logo-new.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/1f029c65-c116-4cfc-aa21-bfcabd13afc8_bbva-logo-new.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web Channel Evolution - Product Owner",
+            "startDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "Responsible for the technical evolution of the desktop channel for retail clients (bbva.es). Milestones:\n\n- Creation of Desktop application for Italy (www.bbva.it) (2021)\n- Canary-based Deployment without Loss of Service (CD)\n- Build based on webpack / snowpack\n- Developer CLI (phoenix)\n- Governance/evolution of channel components\n- Migration from J2EE(Spring) application to SPA in AWS/CF"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Litelement",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Svelte",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "alt": "bbva_logo_old.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/5d1fc627-3523-455e-bd9b-48c6aa234eaf_bbva_logo_old.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": " Branch channel - Project manager",
+            "startDate": "2011-11-01",
+            "finishDate": "2017-09-01",
+            "challenges": [
+              {
+                "description": "Responsible for application infrastructure applications for office channel\n- New development framework (WFL)\n- CI/CD implementation in office channel.\n- Responsible for Commercial Scenarios applications (EECC)\n- LATAM Projects (ARG, COL, VEN, CHL, PER)\n    - Performance in EECC\n    - Google Integration - EECC"
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Compass",
+          "image": {
+            "alt": "BBVA_Compass_logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/f2de8503-f05f-468b-ae4b-645a37a293fb_bbva_compass_logo.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "CRM at BBVA Compass (USA) - Project manager",
+            "startDate": "2009-11-01",
+            "finishDate": "2011-11-01",
+            "challenges": [
+              {
+                "description": "Development and Implementation of CRM solution for BBVA Compass. Front end manager."
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "alt": "bbva_logo_old.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/1dee389f-4180-4d36-b404-535e0d36eaea_bbva_logo_old.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Escenarios comerciales PG. Project Manager",
+            "startDate": "2007-12-01",
+            "finishDate": "2009-10-01",
+            "challenges": [
+              {
+                "description": "Plataforma Grupo Project. Responsible of Agenda Única application."
+              }
+            ],
+            "competences": [
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "IBM Global Services",
+          "image": {
+            "alt": "ibm-logo.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/c447ed69-76b7-48ba-931c-dc4575986106_ibm-logo.jpeg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Accredited IT Architech",
+            "startDate": "1998-12-01",
+            "finishDate": "2007-12-01",
+            "challenges": [
+              {
+                "description": "Application architect in Business Consulting Services at IBM, mainly for financial and insurance customers"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "J2EE",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "English",
+        "startDate": "2013-01-01",
+        "finishDate": "2013-01-01",
+        "institution": {
+          "name": "ASTEX",
+          "description": "C1 Inglés ASTEX (Certificación BBVA)",
+          "image": {
+            "alt": "astex-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/dd2e16f8-9406-4405-af43-6b68d5bdbad3_astex-logo.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero en Informática",
+        "startDate": "1994-09-01",
+        "finishDate": "1998-06-01",
+        "institution": {
+          "name": "Universidad Autónoma de Madrid",
+          "URL": "http://www.uam.es",
+          "image": {
+            "alt": "uam-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/10/3b4828b7-0f16-423f-a820-24b27d03623a_uam-logo.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
